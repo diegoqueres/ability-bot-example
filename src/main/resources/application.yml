@@ -1,0 +1,5 @@
+# Estou usando valores fake aqui, mas obviamente você deve cadastrar seu bot no Telegram e usar envvars aqui com suas propriedades
+telegram-bot:
+  username: MyAmazingBot
+  token:
+  creator-id: -1
