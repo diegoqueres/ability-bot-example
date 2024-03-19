@@ -1,4 +1,4 @@
-package com.example.ability.bot
+package com.example.ability.bot.config
 
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory

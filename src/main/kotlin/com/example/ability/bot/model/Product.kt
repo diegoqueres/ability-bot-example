@@ -1,4 +1,4 @@
-package com.example.ability.bot
+package com.example.ability.bot.model
 
 import java.io.Serializable
 import java.math.BigDecimal

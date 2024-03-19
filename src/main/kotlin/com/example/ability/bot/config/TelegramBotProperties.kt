@@ -1,4 +1,4 @@
-package com.example.ability.bot
+package com.example.ability.bot.config
 
 import org.springframework.boot.context.properties.ConfigurationProperties
 
